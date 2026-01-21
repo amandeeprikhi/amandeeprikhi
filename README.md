@@ -5,7 +5,9 @@ I'm a **Technical Manager** at [CG Infinity](https://www.cginfinity.com/), where
 
 ### 🎓 Education
 - **Master of Technology (MTech)** in Computer Science
-- Lingayas University (2020–2022)
+  - Lingayas University (2020–2022)
+- **Bachelor of Technology (BTech)** in Computer Science
+  - Guru Gobind Singh Indraprastha University (2014–2018)
 
 ### 💼 Professional Experience
 - **Technical Manager** at CG Infinity
